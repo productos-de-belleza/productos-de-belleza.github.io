@@ -1,5 +1,5 @@
 ---
-title: MAQUILLAJE
+title: DIRECCION 
 layout: page
 ---
 
