@@ -12,7 +12,7 @@ tags:
 Estas paletas de maquillaje , son de colores pastel ,colores oscuros y sombras de brillos , estas sombras son de maquillaje son de buen pigmento , con una o dos pasadas basta par obtener el tono que elegiste , son aprueba de agua , son efectivas y de larga duracion .
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 
