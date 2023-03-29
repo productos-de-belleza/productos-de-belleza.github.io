@@ -12,9 +12,9 @@ tags:
 Estos perfumes son de olores dulces , estos perfumes vienen con brillos y con olores frutales , estos perfumes son de larga duracion , es decir que en tu cuerpo se quedara el olor a frutos rojos , o cualquie otro aroma .
 
 
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* [PERMUES CON AROMAS FRUTALES ](https://guides.github.com/features/mastering-markdown/)
+* [PERFUMES CON AROMAS FRUTALES Y CON BRILLOS ](https://www.markdownguide.org/cheat-sheet/)
+* [PERFUMES CON CUALQUIER TIPO DE AROMA QUE DESEES ](https://github.github.com/gfm/)
 
 ---
 
