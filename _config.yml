@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: ARTICULOS DE BELLEZA 
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: PRODUCTOS NATURALES 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,13 +22,13 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: productosdebelleza@gmail.com
+facebook_username: productosdebellezaa
+twitter_username: productosdebelleza.com
+instagram_username: productos.debelleza
+linkedin_username: bellezaa
+github_username:  articulos-de-belleza.github.io
+youtube_channel_id: productosdebelleza
 reddit_username: /
 behance_username: /
 dribbble_username: /
