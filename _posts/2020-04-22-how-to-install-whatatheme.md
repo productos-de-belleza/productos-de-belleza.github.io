@@ -2,8 +2,8 @@
 title: PALETAS DE MAQUILLAJE 
 layout: post
 post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+description: Estas paletas de maquillaje , son de colores pastel ,colores oscuros y sombras de brillos , estas sombras son de maquillaje son de buen pigmento , con una o dos pasadas basta par obtener el tono que elegiste , son aprueba de agua , son efectivas y de larga duracion .
+
 tags:
 - how to
 - setup
