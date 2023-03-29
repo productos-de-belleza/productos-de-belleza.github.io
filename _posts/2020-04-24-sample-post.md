@@ -1,5 +1,5 @@
 ---
-title: Sample Post
+title: PERFUMES 
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
 description: A sample post to show how the content will look and how will different
@@ -9,9 +9,9 @@ tags:
 - post
 - test
 ---
+Estos perfumes son de olores dulces , estos perfumes vienen con brillos y con olores frutales , estos perfumes son de larga duracion , es decir que en tu cuerpo se quedara el olor a frutos rojos , o cualquie otro aroma .
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
+
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
